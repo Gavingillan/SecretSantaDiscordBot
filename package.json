@@ -1,0 +1,19 @@
+{
+  "name": "ssbot",
+  "version": "1.0.0",
+  "description": "A discord bot that does secret santa",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "SecretSanta",
+    "Bot",
+    "Discord"
+  ],
+  "author": "Gavin Gillan",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
